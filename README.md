@@ -21,3 +21,9 @@ yarn test
 You can use this package in your project if you want to fetch an array of URLs containing JSON data. Please see this screenshot for an example.
 ![Screenshot 2021-06-20 at 18 17 50](https://user-images.githubusercontent.com/10453619/122682947-8ba8ee80-d1fc-11eb-9d94-fe1cf6e929b0.png)
 
+Additionally, please note that this package has been updated to the npm registry as 'urllist' so you can use it in your Node application without cloning this project.
+```bash
+yarn add urllist
+```
+Here is an example:
+![Screenshot 2021-06-20 at 18 48 23](https://user-images.githubusercontent.com/10453619/122683639-db89b480-d200-11eb-84b1-5bc0ab0d5b5e.png)
